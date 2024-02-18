@@ -1,2 +1,2 @@
 # Protofolio
-You can explore it live by visiting https://delicate-bombolone-6f835f.netlify.app/
+You can explore it live by visiting https://glittering-starlight-a96e70.netlify.app/
